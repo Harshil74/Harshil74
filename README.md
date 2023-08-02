@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/harshilgohel/](https://www.linkedin.com/in/harshilgohel/))
+
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshilgohel/)](https://www.linkedin.com/in/harshilgohel/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshilgohel723@gmail.com)](mailto:harshilgohel723@gmail.com)
   
 </div>
@@ -29,7 +29,6 @@
     "Self-taught programmer",
     "Bachelor In Computer Engineering"
   ],
-  "company": "Mindfire Solutions",
   
   "interest":
   [
