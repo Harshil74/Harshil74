@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0&height=300&section=header&text=I%20AM%20HARSHIL%20GOHEL&desc=A%20Software%20Engineer&descAlignY=70&descAlign=70&descSize=30&fontSize=60&animation=twinkling" width="100%" alr="Harshil Gohel A software Engineer"/>
 
 <p align="center">
-  Experienced web developer with a 3-year track record building web applications and APIs. Holds a Bachelor's degree in Computer Engineering. Proficient in full-stack web development and cloud services. Eager to explore distributed systems and microservices for designing large-scale systems.
+  Experienced web developer nearly 5 years of track record building web applications and APIs. Holds a Bachelor's degree in Computer Engineering. Proficient in full-stack web development and cloud services. Eager to explore distributed systems and microservices for designing large-scale systems.
 </p>
 
 <p align="center">
